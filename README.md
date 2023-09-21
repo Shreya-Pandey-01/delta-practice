@@ -1,2 +1,2 @@
 # delta-practice
-This is a practice for git and github
+This is a practice for git and github.
